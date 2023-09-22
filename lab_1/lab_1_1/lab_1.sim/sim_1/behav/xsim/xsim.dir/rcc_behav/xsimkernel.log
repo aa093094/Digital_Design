@@ -1,0 +1,7 @@
+Running: xsim.dir/rcc_behav/xsimk.exe -simmode gui -wdb rcc_behav.wdb -simrunnum 0 -socket 57007
+Design successfully loaded
+Design Loading Memory Usage: 8312 KB (Peak: 8312 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8900 KB (Peak: 8900 KB)
+Simulation CPU Usage: 0 ms
