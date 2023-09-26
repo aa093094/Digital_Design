@@ -1,0 +1,9 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+                   0 A = 0, B = 1, A_lt_B = 1, A_gt_B = 0, A_eq_B = 0
+                  10 A = f, B = 3, A_lt_B = 0, A_gt_B = 1, A_eq_B = 0
+                  20 A = a, B = b, A_lt_B = 1, A_gt_B = 0, A_eq_B = 0
+                  30 A = 0, B = 0, A_lt_B = 0, A_gt_B = 0, A_eq_B = 1
+                  40 A = 7, B = d, A_lt_B = 1, A_gt_B = 0, A_eq_B = 0
+                  50 A = 9, B = 9, A_lt_B = 0, A_gt_B = 0, A_eq_B = 1
+$finish called at time : 60 ns : File "C:/Verilog HDL/Vivado project/lab_2_1/lab_2_1.srcs/sim_1/new/Top.v" Line 39
