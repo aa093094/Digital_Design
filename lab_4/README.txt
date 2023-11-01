@@ -1,0 +1,1 @@
+Lab4 is about designing BCD to SevenSegment.
