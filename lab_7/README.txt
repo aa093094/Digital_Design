@@ -1,0 +1,1 @@
+Lab7 is about designing a finite state machine.

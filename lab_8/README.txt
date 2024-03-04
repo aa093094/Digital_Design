@@ -1,0 +1,1 @@
+Lab8 is about synthesizing the finite state machine.

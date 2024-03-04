@@ -1,0 +1,1 @@
+Lab5 is about designing a sequence detector.

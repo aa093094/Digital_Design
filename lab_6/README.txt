@@ -1,0 +1,1 @@
+Lab6 is about designing the traffic signal controller.

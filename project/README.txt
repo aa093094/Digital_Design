@@ -1,0 +1,1 @@
+Project is about designing AI hardware accelerator with CNN. kernel.vh, label.mem, image.mem are given by professor.
